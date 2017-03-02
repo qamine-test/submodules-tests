@@ -1,3 +1,6 @@
 [submodule "submodules/controlledEvolution"]
 	path = submodules/controlledEvolution
 	url = https://github.com/jaimefjorge/controlledEvolution.git
+[submodule "submodules/codacy-engine-scala-seed"]
+	path = submodules/codacy-engine-scala-seed
+	url = https://github.com/codacy/codacy-engine-scala-seed.git
