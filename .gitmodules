@@ -4,3 +4,6 @@
 [submodule "submodules/codacy-engine-scala-seed"]
 	path = submodules/codacy-engine-scala-seed
 	url = https://github.com/codacy/codacy-engine-scala-seed.git
+[submodule "config-files"]
+	path = config-files
+	url = https://github.com/qamine-test/configs-test.git
